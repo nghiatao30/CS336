@@ -1,0 +1,10 @@
+- Link dowload Sourcode + data: https://drive.google.com/file/d/1YllC3pbBDKJTvSsOfUs0LjBfT5Fjq_I-/view?fbclid=IwAR2hn5PUizJIYfT_ZeBwRUrcLyq_Pltr-ELzAYeennHxze3MsNF1gMYnS6g
+
+- Put data into folder: app/public/images
+
+- Download Docker
+
+Build Docker image and run it by this 2 lines.
+
+docker build -t image-retrieval .
+docker run -p 80:8080 --name image-retrieval image-retrieval
