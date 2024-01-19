@@ -1,4 +1,4 @@
-- Link dowload data: https://drive.google.com/file/d/1svzBGVGHbkt9lQ_osTLUzIYJ5AjYcotN/viewELzAYeennHxze3MsNF1gMYnS6g
+- Link dowload data: https://drive.google.com/file/d/1svzBGVGHbkt9lQ_osTLUzIYJ5AjYcotN/view
 
 - Put data into folder: app/public/images
 
