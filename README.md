@@ -1,6 +1,6 @@
 - Link dowload data: [https://drive.google.com/file/d/1svzBGVGHbkt9lQ_osTLUzIYJ5AjYcotN/view](https://drive.google.com/file/d/1svzBGVGHbkt9lQ_osTLUzIYJ5AjYcotN/view)
 
-- Put data into folder: app/public/images
+- Put data into folder: app/public/images/
 
 - Download Docker
 
