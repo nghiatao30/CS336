@@ -6,5 +6,5 @@
 
 Build Docker image and run it by this 2 lines.
 
-docker build -t image-retrieval .
-docker run -p 80:8080 --name image-retrieval image-retrieval
+- docker build -t image-retrieval .
+- docker run -p 80:8080 --name image-retrieval image-retrieval
